@@ -1,6 +1,2 @@
 dev파일입니다.
-<<<<<<< HEAD
-conflict-2 다녀감
-=======
 conflice-1 다녀감!!
->>>>>>> conflict-1
